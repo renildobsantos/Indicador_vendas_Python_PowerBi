@@ -9,3 +9,4 @@ Projeto de indicador de vendas de produtos e apresentação em dashboard no Powe
 ### 5) Salvar arquivos para cada loja no diretório
 ### 6) Relatório de vendas (Dasboard) no PowerBi 
 
+<img align="center" src="https://github.com/renildobsantos/Indicador_vendas_Python_PowerBi/blob/main/imagem.PNG"/>
