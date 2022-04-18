@@ -7,4 +7,5 @@ Projeto de indicador de vendas de produtos e apresentação em dashboard no Powe
 ### 3) Identificar produtos mais vendidos
 ### 4) Criar planilha excel para cada loja
 ### 5) Salvar arquivos para cada loja no diretório
+### 6) Relatório de vendas (Dasboard) no PowerBi 
 
